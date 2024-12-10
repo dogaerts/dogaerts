@@ -5,12 +5,23 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hello, I'm Doğa!
+🔭 I’m currently honing my data science skills by working on exciting projects with real-world datasets.
+📚 I’m pursuing a master’s degree in Data Management and Analysis at Dokuz Eylül University, where I’m diving deep into advanced topics like:
+
+Big Data and Data Science
+Applied Statistics
+Statistical Programming Languages (Python, R)
+Supervised Machine Learning
+Unsupervised Learning Methods
+Statistical Learning
+Mathematics for Data Science
+🌱 My technical toolkit includes:
+
+Programming Languages: Python, R, SQL
+Visualization & BI Tools: Tableau
+Data Science Libraries: Pandas, NumPy, scikit-learn, Matplotlib, and more
+💻 Currently, I’m in the Content Creator phase of my career. I enjoy exploring data, building models, and uncovering actionable insights.
+
+🚀 My projects are a blend of academic learning and practical application. 
 -->
